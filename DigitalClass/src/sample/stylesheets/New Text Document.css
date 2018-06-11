@@ -1,0 +1,191 @@
+#newpost_childroot {
+
+	/*-fx-border-color: #DB0007;*/
+	-fx-background-color: #b5b5b5;
+	-fx-border-style: inset;
+	-fx-border-radius: 12px;
+
+	-fx-background-radius: 12px;
+
+}
+/*#postbutton_root{*/
+	/*-fx-background-color: #cecece;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 12px;*/
+
+	/*-fx-background-radius: 12px;*/
+/*}*/
+/*#newpost_postbutton{*/
+	/*-fx-background-color: #0b15ef;*/
+	/*-fx-border-radius: 3px;*/
+	/*-fx-border-width: 500px;*/
+
+/*}*/
+
+/*#newsfeeds_scrollpane{*/
+	/*-fx-background-color: #ebebeb;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+
+	/*-fx-background-radius: 12px;*/
+
+/*}*/
+/*#showsinglepost_root{*/
+	/*-fx-background-color: #c0c0c0;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+
+	/*-fx-background-radius: 12px;*/
+
+/*}*/
+/*#classmatesshow_root {*/
+	/*-fx-background-color: #ebebeb;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+
+	/*-fx-background-radius: 12px;*/
+/*}*/
+/*#showsinglepost_titlelabel:hover {*/
+	/*-fx-text-fill: #0b15ef;*/
+/*}*/
+/*#showsinglepost_titlelabel{*/
+	/*-fx-text-alignment: center;*/
+/*}*/
+/*#classmateshowcase_textarea{*/
+	/*-fx-text-alignment: center;*/
+
+/*}*/
+#myprofile_root1{
+	-fx-background-color: #28374c;
+	-fx-border-style: inset;
+	-fx-border-radius: 15px;
+
+	-fx-background-radius: 12px;
+
+}
+#myprofile_root2{
+	-fx-background-color: #28374c;
+	-fx-border-style: inset;
+	-fx-border-radius: 15px;
+
+	-fx-background-radius: 12px;
+
+}
+#showsinglepost_namelabel:hover{
+	-fx-text-fill: #f8cf00;
+}
+#loginpage_closelabel:hover{
+	-fx-text-fill: #ee0001;
+
+}
+#loginpage_signuplabel:hover{
+	-fx-text-fill: #00e5ff;
+
+}
+#loginpage_forgotbutton:hover{
+	-fx-text-fill: #08cf0c;
+
+}
+#loginpage_loginbutton:hover{
+	-fx-text-fill:  #28374C;
+}
+#forgotpassword_recoverbutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#registerpage_registerbutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#post_button:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#newsfeed_button:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#classmates_button:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#profile_button:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#mainwindow_logoutbutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#mainwindow_closebutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#mainwindow_discover:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#myprofile_updatestatusbutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#newpost_postbutton:hover{
+	-fx-text-fill:  #28374C;
+
+}
+#classmateshowcase_textarea{
+	-fx-text-alignment: center;
+}
+
+
+
+#registerpage_loginlabel:hover{
+	-fx-text-fill: #00e5ff;
+
+}
+#registerpage_closebutton:hover{
+	-fx-text-fill: #ee0001;
+
+}
+#forgotpass_loginlabel:hover{
+	-fx-text-fill: #00e5ff;
+
+}
+#forgotpass_signuplabel:hover{
+	-fx-text-fill: #00e5ff;
+
+}
+#forgotpassword_closelabel:hover{
+	-fx-text-fill: #ee0001;
+
+}
+/*#showpost_scrollpane{*/
+	/*-fx-background-color: #ebebeb;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+
+	/*-fx-background-radius: 12px;*/
+
+/*}*/
+/*#showpost_textarea{*/
+	/*-fx-background-color: #ebebeb;*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+
+	/*-fx-background-radius: 12px;*/
+
+/*}*/
+
+/*#mainwindow_root{*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+	/*-fx-background-radius: 12px;*/
+
+
+/*}*/
+/*#loginpage_root{*/
+	/*-fx-border-style: inset;*/
+	/*-fx-border-radius: 15px;*/
+	/*-fx-background-radius: 12px;*/
+
+/*}*/

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<fx:root fx:id="newsfeeds_root2" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="542.0" prefWidth="572.0" style="-fx-background-color: #ffffff;" type="AnchorPane" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane fx:id="newsfeeds_scrollpane" hbarPolicy="NEVER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" pannable="true" prefHeight="542.0" prefWidth="572.0" stylesheets="@stylesheets/New%20Text%20Document.css">
+         <content>
+            <VBox fx:id="newsfeeds_vbox" layoutX="5.0" maxWidth="555.0" minWidth="550.0" prefHeight="542.0" prefWidth="555.0" spacing="5.0" stylesheets="@stylesheets/New%20Text%20Document.css" />
+         </content>
+      </ScrollPane>
+   </children>
+</fx:root>

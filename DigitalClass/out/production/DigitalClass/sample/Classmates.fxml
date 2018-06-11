@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<fx:root fx:id="classmates_root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="532.0" prefWidth="572.0" style="-fx-background-color: #ffffff;" type="AnchorPane" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane fx:id="classmates_scrollpane" hbarPolicy="NEVER" layoutY="25.0" pannable="true" prefHeight="506.0" prefWidth="572.0" style="-fx-background-color: #ffffff;">
+         <content>
+            <VBox fx:id="classmates_vbox" maxHeight="-Infinity" maxWidth="555.0" minHeight="-Infinity" minWidth="550.0" prefHeight="504.0" prefWidth="555.0" spacing="6.0" style="-fx-background-color: #ffffff;" />
+         </content>
+      </ScrollPane>
+      <Label layoutX="67.0" layoutY="6.0" text="NAME">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="277.0" layoutY="6.0" text="EMAIL">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="444.0" layoutY="6.0" text="AVAILABLE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</fx:root>
